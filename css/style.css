@@ -54,6 +54,13 @@ align-items: center;
     padding-right: 30px;
 }
 
+.menu-link{
+    border: 0;
+    background-color: #0A0A0A;
+    color: #717171;
+    cursor: pointer;
+}
+
 
 .headline{
     background-color: #f5f5f7;
